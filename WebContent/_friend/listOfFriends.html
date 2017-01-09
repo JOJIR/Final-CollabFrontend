@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Friends Lists</title>
+</head>
+<body>
+
+<div class="w3-animate-opacity">
+<center>
+<h1><strong>Your Friends</strong></h1>
+
+<br>
+
+<table class="table table-responsive">
+
+<tr>
+<th>Username</th>
+
+<th>Start conversation</th>
+</tr>
+
+<tr ng-repeat="f in friends">
+<td ng-hide="currentUser.username==f.fromId">{{f.fromId}}</td>
+<td ng-hide="currentUser.username==f.toId">{{f.toId}}</td>
+<td><button ng-click="" type="button" class="btn btn-success btn-md">Chat</button></td>
+</tr>
+</table>
+
+</center>
+</div>
+
+</body>
+</html>
