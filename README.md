@@ -22,17 +22,3 @@ Angular JS v1.4.9 AngularJS is a structural framework for dynamic web apps. It l
 
 angular.min.js
 
-
-SockJS SockJS is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.SockJS-node is a SockJS server for Node.js.
-
-sockjs.min.js
-
-
-Stomp JS Stomp js provides a STOMP client for Web browser (using Web Sockets) or node.js applications.
-
-stomp.min.js
-
-
-Lodash Lodash is a toolkit of Javascript functions that provides clean, performant methods for manipulating objects and collections. It is a "fork" of the Underscore library and provides additional functionality as well as some superior performance.
-
-lodash.min.js
