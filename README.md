@@ -2,19 +2,26 @@ NIIT Project ②
 
 Collaboration project consisting of basic funtionality like
 
-New user registrations,
-Blogs,
-Blog comments, 
-Group Chat,
-Jobs,
+New user registrations
+
+Blogs
+
+Blog comments 
+
+Group Chat
+
+Jobs
+
 Friend Request (accept and deny)
 
 Frameworks used
 
 Bootstrap v3.3.6 Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web sites. 
 
-bootstrap.min.css,
-bootstrap-theme.css,
+bootstrap.min.css
+
+bootstrap-theme.css
+
 bootstrap.min.js
 
 
