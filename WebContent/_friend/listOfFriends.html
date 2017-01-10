@@ -15,15 +15,15 @@
 <table class="table table-responsive">
 
 <tr>
-<th>Username</th>
+<th><center>Username</center></th>
 
-<th>Start conversation</th>
+<!-- <th>Start conversation</th> -->
 </tr>
 
 <tr ng-repeat="f in friends">
-<td ng-hide="currentUser.username==f.fromId">{{f.fromId}}</td>
-<td ng-hide="currentUser.username==f.toId">{{f.toId}}</td>
-<td><button ng-click="" type="button" class="btn btn-success btn-md">Chat</button></td>
+<td ng-hide="currentUser.username==f.fromId"><center>{{f.fromId}}</center></td>
+<td ng-hide="currentUser.username==f.toId"><center>{{f.toId}}</center></td>
+<!-- <td><button ng-click="" type="button" class="btn btn-success btn-md">Chat</button></td> -->
 </tr>
 </table>
 
