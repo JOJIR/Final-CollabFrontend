@@ -18,17 +18,17 @@ bootstrap-theme.css
 bootstrap.min.js
 
 
-Angular JS v1.4.9 AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write. Click here to downlaod Angular js v1.4.9 or npm install angular
+Angular JS v1.4.9 AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write.
 
 angular.min.js
 
 
-SockJS SockJS is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.SockJS-node is a SockJS server for Node.js. Click here to downlaod SockJS or npm install sockjs
+SockJS SockJS is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.SockJS-node is a SockJS server for Node.js.
 
 sockjs.min.js
 
 
-Stomp JS Stomp js provides a STOMP client for Web browser (using Web Sockets) or node.js applications. Click here to downlaod Stomp JS ornpm install stompjs
+Stomp JS Stomp js provides a STOMP client for Web browser (using Web Sockets) or node.js applications.
 
 stomp.min.js
 
