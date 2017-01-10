@@ -15,10 +15,7 @@ app.config(function($routeProvider)
 		templateUrl:'_home/home.html'
 	})
 	
-	.when('/about',
-	{
-		templateUrl:'_home/about.html'
-	})
+	
 	
 	.when('/register',
 	{
@@ -90,6 +87,7 @@ app.config(function($routeProvider)
 				templateUrl:'_chat/chat.html'
 			})	
 		
+	
 })
 
 app.run(function($cookieStore,$rootScope,$location,UserService)
