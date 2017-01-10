@@ -11,7 +11,7 @@ Friend Request (accept and deny)
 
 Frameworks used
 
-Bootstrap v3.3.6 Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web sites. Click here to downlaod Bootstrap 3.3.7 or npm install bootstrap@3
+Bootstrap v3.3.6 Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web sites. 
 
 bootstrap.min.css,
 bootstrap-theme.css,
